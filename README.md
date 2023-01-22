@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-✨
-sparkles
-Unicode: U+2728, UTF-8: E2 9C A8Hi! I'm an emerging software engineer who develops, designs, and maintains modern, practical, user-friendly web applications.
+✨ I'm an emerging software engineer who develops, designs, and maintains modern, practical, user-friendly web applications.
