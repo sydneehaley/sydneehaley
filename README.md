@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-✨ I'm an emerging software engineer who develops, designs, and maintains modern, practical, user-friendly web applications.
+✨ I'm an emerging software engineer who develops, designs, and maintains modern, practical, user-friendly web applications. My favorite tools are Javascript, Typescript, React, Next.js, Node.js, and TailwindCSS. I am currently exploring Java and object-oriented programming. Please feel free to follow me on 🎉 [@CodeSandbox](https://codesandbox.io/u/sydneehaley) [@HackerRank](https://www.hackerrank.com/sydneehaley) [@LeetCode] (https://leetcode.com/sydneehaley/) 
