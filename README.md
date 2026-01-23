@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-✨ I'm an emerging software developer who develops, designs, and maintains modern, practical, user-friendly web applications. My favorite tools are Javascript, Typescript, React, Next.js, Node.js, and TailwindCSS. I am currently exploring Java and object-oriented programming. Please feel free to follow me on 🎉 [@CodeSandbox](https://codesandbox.io/u/sydneehaley) [@HackerRank](https://www.hackerrank.com/sydneehaley) [@LeetCode](https://leetcode.com/sydneehaley) 
+👋🏽
+
+✨ Software engineer building people systems and HRIS backends.
+Focused on backend architecture, APIs, and workflows that support humans at scale.
