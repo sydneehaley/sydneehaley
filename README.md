@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋🏽
-
 ✨ Software engineer building people systems and HRIS backends.
 Focused on backend architecture, APIs, and workflows that support humans at scale.
